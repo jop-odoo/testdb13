@@ -1,0 +1,4 @@
+[submodule "jop-odoo/website"]
+	path = jop-odoo/website
+	url = git@github.com:jop-odoo/website.git
+	branch = 13.0
